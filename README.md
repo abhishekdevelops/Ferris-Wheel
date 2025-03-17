@@ -1,19 +1,22 @@
-CSS Animation: Ferris Wheel
-A project from **[freeCodeCamp](https://www.freecodecamp.org/)**  Responsive Web Design Certification, focusing on CSS animations to create a rotating Ferris wheel.
+# 🎡 CSS Animation: Ferris Wheel  
 
-🚀 Features
-Smooth @keyframes rotation animation.
-CSS transforms for dynamic movement.
-Fully responsive design.
+A project from **[freeCodeCamp](https://www.freecodecamp.org/)**  **Responsive Web Design Certification**, focusing on **CSS animations** to create a rotating Ferris wheel.  
 
-🛠️ Technologies
-HTML5 – Structure
-CSS3 – Animations & Styling
+## 🚀 Features  
+- Smooth **@keyframes** rotation animation  
+- **CSS transforms** for dynamic movement  
+- Fully **responsive design**  
 
-🌐 Live Demo
-View Demo (https://abhishekdevelops.github.io/Ferris-Wheel/)
+## 🛠️ Technologies  
+- **HTML5** – Structure  
+- **CSS3** – Animations & Styling  
 
-
+## 🌐 Live Demo  
+[View Demo] (https://abhishekdevelops.github.io/Ferris-Wheel/)  
 
 📜 Part of
+
 Responsive Web Design Certification –**[freeCodeCamp](https://www.freecodecamp.org/)** .
+
+
+
